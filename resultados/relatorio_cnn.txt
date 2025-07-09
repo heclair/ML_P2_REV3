@@ -1,0 +1,15 @@
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99     17643
+           1       0.89      0.87      0.88      1160
+           2       0.99      0.99      0.99      1197
+
+    accuracy                           0.99     20000
+   macro avg       0.96      0.95      0.95     20000
+weighted avg       0.99      0.99      0.99     20000
+
+Matriz de Confusão:
+[[17516   125     2]
+ [  136  1013    11]
+ [    2     5  1190]]
